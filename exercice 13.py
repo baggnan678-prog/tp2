@@ -6,4 +6,3 @@ if "Ali" in contacts:
     print("Ali est dans les contacts") 
 print(f"Voici les noms {list(contacts.keys())}")
 print(f"Voici les numéros {list(contacts.values())}")
-    
